@@ -1,0 +1,11 @@
+{
+    "page_name": "title",
+    "article": "article",
+    "link": {
+      "tag": "a",
+      "attribute": "href"
+    },
+    "title": "h3",
+    "description": "p"
+  }
+  
